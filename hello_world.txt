@@ -1,1 +1,3 @@
 This is a test for The Odin Project lesson
+
+Testing git config --global core.editor "code --wait" whereby I just enter git commit (after staging it)
